@@ -1,0 +1,14 @@
+img{
+	height: 75vh;
+	width: 55vw;
+	margin-left: 50%;
+	margin: 50px;
+	border: 2px solid black;
+
+}
+body{
+	padding-left: 350px;
+}
+img: :hover{
+	transform: scale(0.5,0.5)
+}
